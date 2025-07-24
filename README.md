@@ -13,6 +13,8 @@
   <img src="assets/demo.gif" alt="Typing Speed Tester Demo" width="800">
 </div>
 
+![Typing Speed Tester Demo](assets/demo.gif)
+
 ---
 
 ## ⚙️ Key Features
