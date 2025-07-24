@@ -54,9 +54,15 @@
 ---
 
 ### 🧠 Input Validation
-- All key inputs (username, text length, new test) validated with **Regex**
-- Prevents invalid input and improves user experience  
-![Input Validation](assets/screenshot-validation.png)
+- Username validation (only letters, numbers & underscores; 3–16 chars)
+- Text length selection validation (must be 1, 2 or 3)
+
+**Examples:**
+
+<div align="center">
+  <img src="assets/screenshot-validation-username.png" width="400">
+  <img src="assets/screenshot-validation-length.png" width="400">
+</div>
 
 ---
 
