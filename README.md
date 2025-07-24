@@ -57,17 +57,10 @@
 - Username validation (only letters, numbers & underscores; 3–16 chars)
 - Text length selection validation (must be 1, 2 or 3)
 
-**Examples_1:**
-
-<div align="center">
-  <img src="assets/screenshot-validation-username.png" width="400">
-  <img src="assets/screenshot-validation-length.png" width="400">
-</div>
-
-**Examples_1:**
+**Examples 1:**
 ![Screenshot of validation for username](assets/screenshot-validation-username.png)
 
-**Examples_2:**
+**Examples 2:**
 ![Screenshot of validation for text length selection](assets/screenshot-validation-length.png)
 
 ---
