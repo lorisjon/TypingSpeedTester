@@ -35,7 +35,7 @@
 - Measures speed and accuracy in real-time
 
 <div align="center">
-  <img src="assets/typing.gif" alt="Typing Test in action" width="600">
+  <img src="assets/typing.gif" alt="Typing Test in action" width="800">
 </div>
 
 ---
