@@ -9,9 +9,7 @@
 
 ## 🎞 Demo
 
-<div align="center">
-  <img src="assets/demo.gif" alt="Typing Speed Tester Demo" width="800">
-</div>
+![Typing Speed Tester Demo](assets/demo.gif)
 
 ---
 
@@ -31,8 +29,10 @@
 ---
 
 ### ⌨️ Typing Test
-- Type a given text as fast and accurately as possible  
-![Typing Test](assets/screenshot-typing.png)
+- Take a typing test with **short**, **medium**, or **long** text options
+- Measures speed and accuracy in real-time
+
+![Typing Test](assets/typing.gif)
 
 ---
 
