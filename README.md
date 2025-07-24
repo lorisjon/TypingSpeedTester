@@ -1,9 +1,11 @@
-# ⌨️ Python Typing Speed Tester
-*Measure your typing speed and accuracy with persistent high scores and averages*
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Regex](https://img.shields.io/badge/Regex-FF9800?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+# ⌨️ Python Typing Speed Tester
+*Measure your typing speed and accuracy with persistent high scores and averages*
+
+
 
 ---
 
