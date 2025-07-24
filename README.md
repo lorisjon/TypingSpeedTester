@@ -64,6 +64,9 @@
   <img src="assets/screenshot-validation-length.png" width="400">
 </div>
 
+![Screenshot of validation for username](assets/screenshot-validation-username.png)
+![Screenshot of validation for text length selection](assets/screenshot-validation-length.png)
+
 ---
 
 ## 🛠 Technology Stack
