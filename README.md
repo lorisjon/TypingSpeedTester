@@ -77,7 +77,7 @@
 
 ## 📚 Project Context
 
-> This project was created during my training at **gibb** as part of the *Modul 122 LB2* course.  
+> This project was created during my training at **gibb** as part of the *Modul 122* course.  
 >  
 > The main goal was to learn **Python programming**, **Regex validation**, and **SQLite database integration**.  
 >  
