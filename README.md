@@ -34,9 +34,7 @@
 - Take a typing test with **short**, **medium**, or **long** text options
 - Measures speed and accuracy in real-time
 
-<div align="center">
-  <img src="assets/typing.gif" alt="Typing Test in action" width="800">
-</div>
+![Typing Test](assets/typing.gif)
 
 ---
 
