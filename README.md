@@ -92,10 +92,10 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/python-typing-speed-tester.git
+git clone https://github.com/lorisjon/TypingSpeedTester.git
 
 # 2. Navigate into the project folder
-cd python-typing-speed-tester
+cd TypingSpeedTester
 
 # 3. Run the program
 python tipptest.py
