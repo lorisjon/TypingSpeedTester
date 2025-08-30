@@ -30,7 +30,7 @@
 
 ---
 
-### ⌨️ Typing Test
+### Typing Test
 - Take a typing test with **short**, **medium**, or **long** text options
 - Measures speed and accuracy in real-time
 
