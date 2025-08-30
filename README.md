@@ -103,7 +103,7 @@ python tipptest.py
 
 ---
 
-## 👤 About the Developer
+## About the Developer
 
 > I am an aspiring software developer with an interest in **console tools, data persistence, and user experience**.  
 >  
