@@ -9,22 +9,22 @@
 
 ---
 
-## 🎞 Demo
+## Demo
 
 ![Typing Speed Tester Demo](assets/demo.gif)
 
 ---
 
-## ⚙️ Key Features
+## Key Features
 
-### 👤 User Management
+### User Management
 - Create a username once (validated via **Regex**)
 - Automatically recognized on subsequent runs  
 ![Username Creation](assets/screenshot-username.png)
 
 ---
 
-### 📏 Text Length Selection
+### Text Length Selection
 - Choose between **short**, **medium**, and **long** text samples  
 ![Text Length Selection](assets/screenshot-length.png)
 
@@ -38,7 +38,7 @@
 
 ---
 
-### 📊 Results & Statistics
+### Results & Statistics
 - Displays:
   - **Typing Speed** in Words Per Minute (WPM)
   - **Accuracy** as a percentage
@@ -47,7 +47,7 @@
 
 ---
 
-### 🗄️ Database Persistence
+### Database Persistence
 - **SQLite** integration for:
   - User storage
   - Test results (speed & accuracy)
@@ -55,7 +55,7 @@
 
 ---
 
-### 🧠 Input Validation
+### Input Validation
 - Username validation (only letters, numbers & underscores; 3–16 chars)
 - Text length selection validation (must be 1, 2 or 3)
 
@@ -75,7 +75,7 @@
 
 ---
 
-## 📚 Project Context
+## Project Context
 
 > This project was created during my training at **gibb** as part of the *Modul 122* course.  
 >  
@@ -88,7 +88,7 @@
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ```bash
 # 1. Clone the repository
